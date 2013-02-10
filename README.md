@@ -1,4 +1,6 @@
-touchKeyboard
-=============
+Touch keyboard
+==============
 
-Touch keyboard for kiosk apps
+Init plugin using:
+
+    $(".touchKeyboard").touchKeyboard();
